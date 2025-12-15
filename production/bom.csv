@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,PinHeader_1x02_P2.54mm_Vertical,1,Battery,
+"C1, C2",CP_Radial_D8.0mm_P5.00mm,2,0.47uf,
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",LED_D5.0mm,12,LED,
+"Q1, Q2",TO-92L_HandSolder,2,NPN,
+"R1, R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,1M,
+"R10, R11, R12, R13, R14, R15, R16, R5, R6, R7, R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,12,R_US,
+"R3, R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,8.2K,
+SW1,SW_PUSH_6mm,1,SW_Push,
